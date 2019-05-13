@@ -1,6 +1,8 @@
 # deploy-setup-ec2-digitalocean
 deploy-setup-ec2-digitalocean
 
+#digitalocean making new user
+* https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04
 
 # nodejs 
 * https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04
