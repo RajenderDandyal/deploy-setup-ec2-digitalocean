@@ -16,3 +16,8 @@ deploy-setup-ec2-digitalocean
 
 # other
 * https://www.digitalocean.com/community/tutorials/
+* https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem
+* https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript
+* https://www.digitalocean.com/community/tutorial_series/working-with-arrays-in-javascript
+* https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model
+* https://www.digitalocean.com/community/tutorial_series/from-containers-to-kubernetes-with-node-js
