@@ -16,6 +16,9 @@ deploy-setup-ec2-digitalocean
 * https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-redis-on-ubuntu-16-04
 * https://www.digitalocean.com/community/tutorials/how-to-encrypt-traffic-to-redis-with-spiped-on-ubuntu-16-04
 
+# https
+* https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04
+
 # other
 * https://www.digitalocean.com/community/tutorials/
 * https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem
